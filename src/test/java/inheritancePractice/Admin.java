@@ -1,4 +1,4 @@
-package inheritance;
+package inheritancePractice;
 
 public class Admin extends Developer {
 	
@@ -9,7 +9,6 @@ public class Admin extends Developer {
 	}
 	
 	public void read() {
-		System.out.println("Read Content");
+		System.out.println("Local Read Content");
 	}
-
 }
