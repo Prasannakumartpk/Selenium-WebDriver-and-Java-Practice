@@ -1,4 +1,4 @@
-package inheritancePractice;
+package multiLevelInheritance;
 
 public class Admin extends Developer {
 	
