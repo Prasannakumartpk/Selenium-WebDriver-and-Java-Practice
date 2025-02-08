@@ -1,7 +1,7 @@
 package inheritancePractice1;
 
 public class Student extends Person {
-	
+
 	int studentId;
 	String course;
 	
