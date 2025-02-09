@@ -1,4 +1,4 @@
-package inheritancePractice1;
+	package inheritancePractice1;
 
 public class Person {
 	String name;
